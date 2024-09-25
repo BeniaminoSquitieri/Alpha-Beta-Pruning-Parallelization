@@ -1,4 +1,4 @@
-# Project Overview: Alpha-Beta Pruning Parallelization for Tic-Tac-Toe Game
+# Alpha-Beta Pruning Parallelization for Tic-Tac-Toe Game
 
 This project aims to improve the performance of the MinMax algorithm used in the Tic-Tac-Toe game by parallelizing the **Alpha-Beta Pruning algorithm**. The parallelization is achieved using **OpenMP**, a widely-used API for shared memory multiprocessing. The goal is to reduce the time complexity and improve the efficiency of decision-making in the game by evaluating game tree branches concurrently.
 
